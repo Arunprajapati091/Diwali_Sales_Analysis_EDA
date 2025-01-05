@@ -11,11 +11,12 @@ performance during the festive season.
 Key Insights and Findings
 
 1.	Data Cleaning and Preparation:
+   
 o	Columns with null values (e.g., Status and unnamed1) were dropped, reducing dataset inconsistencies.
 
 o	Missing data for approximately 5% of the entries were resolved using drop method.
 
-3.	Consumer Behavior Analysis:
+2.	Consumer Behavior Analysis:
 
 o	Demographics: Married women aged 26-35 years constituted 35% of the total buyers, emerging as the largest customer segment.
 
@@ -23,7 +24,7 @@ o	Regional Insights: Customers from Uttar Pradesh (18%), Maharashtra (15%), and 
 
 o	Spending Patterns: The top three product categories—Food (25%), Clothing (20%), and Electronics (15%)—drove 60% of the total revenue.
 
-6.	Visual Exploration:
+3.	Visual Exploration:
 
 o	Bar plots showcased customer preferences across regions and categories.
 
